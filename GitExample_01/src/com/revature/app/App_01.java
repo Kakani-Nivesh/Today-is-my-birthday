@@ -6,7 +6,7 @@ public class App_01
 	{
 		System.out.println("Hello World!!!");
 		for(int c=0;c<10;c++) {
-			
+			System.out.println(c);
 		}
 	}
 
